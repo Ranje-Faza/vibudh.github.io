@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vibudhaalaya - a school for the gifted</title>
+    <link>https://vibudh.org/</link>
+    <description>Recent content on Vibudhaalaya - a school for the gifted</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://vibudh.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
